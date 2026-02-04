@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm Prakhar</h1>
 <p align="left">
-▸ Pre-Final Year Computer Science Engineering student at SRM Institute of Science and Technology /n
-▸ Strong foundation in Data Structures & Algorithms and Web Development
-▸ Actively building real-world projects using modern technologies and frameworks
-▸ Loves startups, system design, and clean code.</h3>
+▸ Pre-Final Year Computer Science Engineering student at SRM Institute of Science and Technology <br>
+▸ Strong foundation in Data Structures & Algorithms and Web Development<br>
+▸ Actively building real-world projects using modern technologies and frameworks <br>
+▸ Loves startups, system design, and clean code.</p> <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakhar3518" alt="prakhar3518" /></a> </p>
 
