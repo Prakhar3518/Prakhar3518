@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Prakhar</h1>
-<h3 align="left">
+<h1 align="left">Hi, I'm Prakhar</h1>
+<p align="left">
 ▸ Pre-Final Year Computer Science Engineering student at SRM Institute of Science and Technology
 ▸ Strong foundation in Data Structures & Algorithms and Web Development
 ▸ Actively building real-world projects using modern technologies and frameworks
