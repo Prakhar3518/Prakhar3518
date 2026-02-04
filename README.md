@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Prakhar Chaudhary</h1>
-<h3 align="center">Builder mindset. Turning ideas into products with Java + Spring Boot. Love startups, system design, and clean code.</h3>
+<h1 align="center">Hi, I'm Prakhar</h1>
+<h3 align="left">
+▸ Pre-Final Year Computer Science Engineering student at SRM Institute of Science and Technology
+
+▸ Strong foundation in Data Structures & Algorithms and Web Development
+
+▸ Actively building real-world projects using modern technologies and frameworks
+
+▸ Loves startups, system design, and clean code.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakhar3518" alt="prakhar3518" /></a> </p>
 
