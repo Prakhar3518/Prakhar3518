@@ -4,7 +4,7 @@
 ▸ Strong foundation in Data Structures & Algorithms and Web Development.<br>
 ▸ Currently refining my problem-solving skills and scalable backend architecture knowledge. <br>
 ▸ Loves startups, system design, and clean code.<br>
-▸ 📫 Reach me at **prakharchaudhary0302@gmail.com** </p> <br>
+▸ 📫 Reach me at @prakharchaudhary0302@gmail.com </p> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
