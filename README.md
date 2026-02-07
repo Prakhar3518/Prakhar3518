@@ -84,7 +84,7 @@
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/prakharchaudhary" target="_blank">
+  <a href="[https://linkedin.com/in/prakharchaudhary](https://www.linkedin.com/in/prakhar-chaudhary-94a84a2b7)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
