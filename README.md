@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Prakhar</h1>
 <p align="left">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi, I am Prakhar Chaudhary;Welcome to my profile!)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73A0D&background=FFFFFF00&width=435&lines=Hey+There%2C+I+am+Prakhar+;Welcome+to+my+Github+Profile+!" alt="Typing SVG" /></a>
 ▸ Pre-Final Year Computer Science Engineering student at SRM Institute of Science and Technology.<br>
 ▸ Strong foundation in Data Structures & Algorithms and Web Development.<br>
 ▸ Currently refining my problem-solving skills and scalable backend architecture knowledge. <br>
