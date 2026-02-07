@@ -8,14 +8,17 @@
 📫 Reach me at <a href = "mailto:prakharchaudhary0302@gmail.com">prakharchaudhary0302@gmail.com </a> </p> <br>
 
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h3 align="left">Coding profiles:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prakharchaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar chaudhary" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/tmKa3ndX9t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakhar chaudhary" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/covey_seas_78" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="covey_seas_78" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/prakharchaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prakharchaudhary" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/tmKa3ndX9t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakhar chaudhary" height="30" width="40" /></a>
 </p>
 
+<h3>Tech Stack</h3>
+<hr>
 <h3 align="left">Languages</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
@@ -66,13 +69,39 @@
 </p>
 
 
-
-
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=Prakhar3518&theme=dark&hide_border=true" 
     alt="GitHub Streak Stats"
   />
 </p>
+
+<h3 align="left">Connect with me</h3>
+
+<p align="left">
+  <!-- Gmail -->
+  <a href="mailto:prakharchaudhary0302@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/prakharchaudhary" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/prakhar3518" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/PrakharCha74855" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+>
+
+
+<p>Feel free to explore my repositories, contribute if you like, or reach out for collaborations. I'm always excited to work on interesting projects with people who share similar passions!</p>
 
 
