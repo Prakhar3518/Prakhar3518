@@ -99,6 +99,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="assets/pixelcoffee.gif" width="400" />
+</p>
 
 
 <p>Feel free to explore my repositories, contribute if you like, or reach out for collaborations. I'm always excited to work on interesting projects with people who share similar passions!</p>
