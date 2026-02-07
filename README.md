@@ -5,7 +5,6 @@
 ▸ Strong foundation in Data Structures & Algorithms and Web Development.<br>
 ▸ Currently refining my problem-solving skills and scalable backend architecture knowledge. <br>
 ▸ Loves startups, system design, and clean code.<br>
-📫 Reach me at <a href = "mailto:prakharchaudhary0302@gmail.com">prakharchaudhary0302@gmail.com </a> </p> <br>
 
 
 
@@ -22,7 +21,7 @@
   </a>
 </p>
 
-<br>
+
 <hr>
 <h2>Tech Stack</h2>
 <h3 align="left">Languages</h3>
@@ -77,7 +76,7 @@
 
 <h2 align="left">Connect with me</h2>
 
-<p align="left">
+<p align="centre">
   <!-- Gmail -->
   <a href="mailto:prakharchaudhary0302@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -98,7 +97,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
->
+
 
 
 <p>Feel free to explore my repositories, contribute if you like, or reach out for collaborations. I'm always excited to work on interesting projects with people who share similar passions!</p>
