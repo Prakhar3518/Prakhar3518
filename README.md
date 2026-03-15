@@ -75,7 +75,14 @@
     alt="GitHub Streak Stats"
   />
 </p>
-[(https://github-readme-stats.vercel.app/api?username=Prakhar3518)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Prakhar3518&theme=dark&hide_border=true" 
+    alt="GitHub Streak Stats"
+  />
+</p>
+
 
 <h2 align="left">Connect with me</h2>
 
