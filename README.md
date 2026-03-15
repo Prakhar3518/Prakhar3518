@@ -76,12 +76,7 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Prakhar3518&theme=dark&hide_border=true" 
-    alt="GitHub Streak Stats"
-  />
-</p>
+
 
 
 <h2 align="left">Connect with me</h2>
