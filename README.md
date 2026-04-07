@@ -77,7 +77,9 @@
 </p>
 
 <h2>📈 Contribution Graph</h2>
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prakhar3518&bg_color=000000&color=888888&line=888888&point=aaaaaa&hide_border=true)](https://github.com/Prakhar3518)
+<a href="https://github.com/Prakhar3518">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar3518" />
+</a>
 
 
 <h2 align="left">Connect with me</h2>
