@@ -15,7 +15,13 @@
 
 <h2 align="left">Coding Profiles</h2>
 <p align="left">
-@@ -20,97 +25,3 @@
+  <a href="https://leetcode.com/u/tmKa3ndX9t" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/covey_seas_78" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/prakharchaudhary" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
