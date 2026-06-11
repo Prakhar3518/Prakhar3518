@@ -121,5 +121,5 @@
 <p>Feel free to explore my repositories, contribute if you like, or reach out for collaborations. I'm always excited to work on interesting projects with people who share similar passions!</p>
 
 <p align="center">
-  <img src="space-footer.svg" width="100%">
+  <img src="assets/space-footer.svg" width="100%">
 </p>
