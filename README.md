@@ -84,10 +84,8 @@
 </p>
 
 <h2>📈 Contribution Graph</h2>
-<a href="https://github.com/Prakhar3518">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar3518" />
-</a>
 
+[![Prakhar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prakhar3518&theme=github-compact)](https://github.com/Prakhar3518)
 
 <h2 align="left">Connect with me</h2>
 
