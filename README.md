@@ -120,4 +120,6 @@
 
 <p>Feel free to explore my repositories, contribute if you like, or reach out for collaborations. I'm always excited to work on interesting projects with people who share similar passions!</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+<p align="center">
+  <img src="space-footer.svg" width="100%">
+</p>
