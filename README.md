@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Prakhar%20Chaudhary&fontAlign=50&fontAlignY=40&color=gradient"/>
 <h1 align="left">Hi, I'm Prakhar</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=130&color=369E3C&background=FFFFFF00&width=435&lines=Welcome+to+my+Github+Profile!;Scroll+for+code%2C+chaos+and+coffee+%E2%98%95" alt="Typing SVG" /></a>
 <p align="left">
@@ -118,3 +119,4 @@
 
 <p>Feel free to explore my repositories, contribute if you like, or reach out for collaborations. I'm always excited to work on interesting projects with people who share similar passions!</p>
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=Prakhar3518)
