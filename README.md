@@ -1,7 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Prakhar%20Chaudhary&fontSize=45&fontAlign=50&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Building%20Scalable%20Backend%20Systems&descAlign=50&descAlignY=60&descSize=22&animation=fadeIn" />
+<p align="center">
+  <img src="space-terminal.svg" width="100%">
+</p>
+<h1 align="left">Hi, I'm Prakhar</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=130&color=369E3C&background=FFFFFF00&width=435&lines=Welcome+to+my+Github+Profile!;Scroll+for+code%2C+chaos+and+coffee+%E2%98%95" alt="Typing SVG" /></a>
 <p align="left">
-▸ Pre-Final Year Computer Science Engineering student at SRM Institute of Science and Technology.<br>
+▸ Final Year Computer Science Engineering student at SRM Institute of Science and Technology.<br>
 ▸ Strong foundation in Data Structures & Algorithms and Web Development.<br>
 ▸ Currently refining my problem-solving skills and scalable backend architecture knowledge. <br>
 ▸ Loves startups, system design, and clean code.<br>
